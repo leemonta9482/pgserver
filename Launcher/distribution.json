@@ -316,6 +316,391 @@
           }
         },
         {
+          "id": "asteorbar.json5",
+          "name": "asteorbar.json5",
+          "type": "File",
+          "artifact": {
+            "size": 13152,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/asteorbar.json5",
+            "MD5": "fa9e73ce7c8459a81cfd951201d538db",
+            "path": "config/asteorbar.json5"
+          }
+        },
+        {
+          "id": "client.json5",
+          "name": "client.json5",
+          "type": "File",
+          "artifact": {
+            "size": 624,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/bettercombat/client.json5",
+            "MD5": "5e8700c8c51e375cf4ed5d8ce33c80cd",
+            "path": "config/bettercombat/client.json5"
+          }
+        },
+        {
+          "id": "fallback_compatibility.json",
+          "name": "fallback_compatibility.json",
+          "type": "File",
+          "artifact": {
+            "size": 2995,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/bettercombat/fallback_compatibility.json",
+            "MD5": "cd6019eba788c56ca9a0b6f7a03a02c8",
+            "path": "config/bettercombat/fallback_compatibility.json"
+          }
+        },
+        {
+          "id": "server.json5",
+          "name": "server.json5",
+          "type": "File",
+          "artifact": {
+            "size": 5362,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/bettercombat/server.json5",
+            "MD5": "1927bad18c12ecb8f6534d2a2ba9164f",
+            "path": "config/bettercombat/server.json5"
+          }
+        },
+        {
+          "id": "citresewn-defaults.json",
+          "name": "citresewn-defaults.json",
+          "type": "File",
+          "artifact": {
+            "size": 49,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/citresewn-defaults.json",
+            "MD5": "bc5045a4380a10d3b83bedd196a37f28",
+            "path": "config/citresewn-defaults.json"
+          }
+        },
+        {
+          "id": "citresewn.json",
+          "name": "citresewn.json",
+          "type": "File",
+          "artifact": {
+            "size": 122,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/citresewn.json",
+            "MD5": "0db1d5a0dbb56a3fd149d36e012416e8",
+            "path": "config/citresewn.json"
+          }
+        },
+        {
+          "id": "continuity.json",
+          "name": "continuity.json",
+          "type": "File",
+          "artifact": {
+            "size": 122,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/continuity.json",
+            "MD5": "16114edbb9460c49373bb12561ddf7c3",
+            "path": "config/continuity.json"
+          }
+        },
+        {
+          "id": "entity_model_features.json",
+          "name": "entity_model_features.json",
+          "type": "File",
+          "artifact": {
+            "size": 1080,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/entity_model_features.json",
+            "MD5": "816f1902910c6c5ada74d06c0fc30112",
+            "path": "config/entity_model_features.json"
+          }
+        },
+        {
+          "id": "entity_texture_features.json",
+          "name": "entity_texture_features.json",
+          "type": "File",
+          "artifact": {
+            "size": 1420,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/entity_texture_features.json",
+            "MD5": "70bc0a7c3e75a25a9049facdc3a0a7ea",
+            "path": "config/entity_texture_features.json"
+          }
+        },
+        {
+          "id": "etf_warnings.json",
+          "name": "etf_warnings.json",
+          "type": "File",
+          "artifact": {
+            "size": 28,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/etf_warnings.json",
+            "MD5": "b49b5603d2df29fa132f89ec91974572",
+            "path": "config/etf_warnings.json"
+          }
+        },
+        {
+          "id": "indigo-renderer.properties",
+          "name": "indigo-renderer.properties",
+          "type": "File",
+          "artifact": {
+            "size": 290,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/fabric/indigo-renderer.properties",
+            "MD5": "b1bfbbc8af9b5572a16cf282827791fd",
+            "path": "config/fabric/indigo-renderer.properties"
+          }
+        },
+        {
+          "id": "hold-my-items.json",
+          "name": "hold-my-items.json",
+          "type": "File",
+          "artifact": {
+            "size": 179,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/hold-my-items.json",
+            "MD5": "62a8ee8b84d5b63fd772e6bf85577919",
+            "path": "config/hold-my-items.json"
+          }
+        },
+        {
+          "id": "iris-excluded.json",
+          "name": "iris-excluded.json",
+          "type": "File",
+          "artifact": {
+            "size": 31,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/iris-excluded.json",
+            "MD5": "670592b1394f12ab96d8432f14ac8dd9",
+            "path": "config/iris-excluded.json"
+          }
+        },
+        {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 314,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/iris.properties",
+            "MD5": "a6a40358f37609741b374c269369167b",
+            "path": "config/iris.properties"
+          }
+        },
+        {
+          "id": "itemphysic-client.json",
+          "name": "itemphysic-client.json",
+          "type": "File",
+          "artifact": {
+            "size": 586,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/itemphysic-client.json",
+            "MD5": "472710423de137c13a690a1934da626a",
+            "path": "config/itemphysic-client.json"
+          }
+        },
+        {
+          "id": "itemphysic.json",
+          "name": "itemphysic.json",
+          "type": "File",
+          "artifact": {
+            "size": 8825,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/itemphysic.json",
+            "MD5": "58c600b239869372a68ead29a7cff572",
+            "path": "config/itemphysic.json"
+          }
+        },
+        {
+          "id": "hide-blocks.json",
+          "name": "hide-blocks.json",
+          "type": "File",
+          "artifact": {
+            "size": 149,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/jade/hide-blocks.json",
+            "MD5": "83c9f405ab4ae1427f76ab4a30a16644",
+            "path": "config/jade/hide-blocks.json"
+          }
+        },
+        {
+          "id": "hide-entities.json",
+          "name": "hide-entities.json",
+          "type": "File",
+          "artifact": {
+            "size": 243,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/jade/hide-entities.json",
+            "MD5": "a52182a33844468228bdbc58dbe5a73a",
+            "path": "config/jade/hide-entities.json"
+          }
+        },
+        {
+          "id": "jade.json",
+          "name": "jade.json",
+          "type": "File",
+          "artifact": {
+            "size": 1094,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/jade/jade.json",
+            "MD5": "74800d63b07740dbae5392bfd9d3747e",
+            "path": "config/jade/jade.json"
+          }
+        },
+        {
+          "id": "plugins.json",
+          "name": "plugins.json",
+          "type": "File",
+          "artifact": {
+            "size": 1970,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/jade/plugins.json",
+            "MD5": "d4826dc64c84be4e935e13a6758d2603",
+            "path": "config/jade/plugins.json"
+          }
+        },
+        {
+          "id": "sort-order.json",
+          "name": "sort-order.json",
+          "type": "File",
+          "artifact": {
+            "size": 2017,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/jade/sort-order.json",
+            "MD5": "85935c7f06d74d1e025b319aea3913ad",
+            "path": "config/jade/sort-order.json"
+          }
+        },
+        {
+          "id": "usernamecache.json",
+          "name": "usernamecache.json",
+          "type": "File",
+          "artifact": {
+            "size": 6642,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/jade/usernamecache.json",
+            "MD5": "fc63ced7f5f544b187dc7cf16b772a4e",
+            "path": "config/jade/usernamecache.json"
+          }
+        },
+        {
+          "id": "journeymap-server.json",
+          "name": "journeymap-server.json",
+          "type": "File",
+          "artifact": {
+            "size": 67,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/journeymap-server.json",
+            "MD5": "1de3b1bd220fc2e0696e0946001baa66",
+            "path": "config/journeymap-server.json"
+          }
+        },
+        {
+          "id": "koreanpatch.json",
+          "name": "koreanpatch.json",
+          "type": "File",
+          "artifact": {
+            "size": 629,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/koreanpatch.json",
+            "MD5": "ad4a1065cd1aacc0ea655fc5497e0e12",
+            "path": "config/koreanpatch.json"
+          }
+        },
+        {
+          "id": "koreanpatch.json5",
+          "name": "koreanpatch.json5",
+          "type": "File",
+          "artifact": {
+            "size": 1513,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/koreanpatch.json5",
+            "MD5": "db57d63145cae2aa9d67e8b160151008",
+            "path": "config/koreanpatch.json5"
+          }
+        },
+        {
+          "id": "legendarytooltips.toml",
+          "name": "legendarytooltips.toml",
+          "type": "File",
+          "artifact": {
+            "size": 9263,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/legendarytooltips.toml",
+            "MD5": "254816ec6f53088d1020b0dbf59736e6",
+            "path": "config/legendarytooltips.toml"
+          }
+        },
+        {
+          "id": "modmenu.json",
+          "name": "modmenu.json",
+          "type": "File",
+          "artifact": {
+            "size": 840,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/modmenu.json",
+            "MD5": "6f801fc101c146e1c993f05544858c34",
+            "path": "config/modmenu.json"
+          }
+        },
+        {
+          "id": "simplehudenhanced.toml",
+          "name": "simplehudenhanced.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2407,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/simplehudenhanced.toml",
+            "MD5": "c34673d8980edee745a9c59474301ea6",
+            "path": "config/simplehudenhanced.toml"
+          }
+        },
+        {
+          "id": "sodium-fingerprint.json",
+          "name": "sodium-fingerprint.json",
+          "type": "File",
+          "artifact": {
+            "size": 427,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/sodium-fingerprint.json",
+            "MD5": "ce5264b4984a7276d58f8abe21191973",
+            "path": "config/sodium-fingerprint.json"
+          }
+        },
+        {
+          "id": "sodium-mixins.properties",
+          "name": "sodium-mixins.properties",
+          "type": "File",
+          "artifact": {
+            "size": 258,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/sodium-mixins.properties",
+            "MD5": "a5b6a84e034d60be869ae33f2dba4e2b",
+            "path": "config/sodium-mixins.properties"
+          }
+        },
+        {
+          "id": "sodium-options.json",
+          "name": "sodium-options.json",
+          "type": "File",
+          "artifact": {
+            "size": 684,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/sodium-options.json",
+            "MD5": "ff97d8ee57c2b9dbe1f7d0e8ba1c34ac",
+            "path": "config/sodium-options.json"
+          }
+        },
+        {
+          "id": "xaerominimap-common.txt",
+          "name": "xaerominimap-common.txt",
+          "type": "File",
+          "artifact": {
+            "size": 145,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/xaerominimap-common.txt",
+            "MD5": "c4bb2d96ebd8182b307ef6b2fda27370",
+            "path": "config/xaerominimap-common.txt"
+          }
+        },
+        {
+          "id": "xaerominimap.txt",
+          "name": "xaerominimap.txt",
+          "type": "File",
+          "artifact": {
+            "size": 3639,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/xaerominimap.txt",
+            "MD5": "b9a62d2e509c63baf060560d4f413965",
+            "path": "config/xaerominimap.txt"
+          }
+        },
+        {
+          "id": "xaerominimap_entities.json",
+          "name": "xaerominimap_entities.json",
+          "type": "File",
+          "artifact": {
+            "size": 5531,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/xaerominimap_entities.json",
+            "MD5": "e1aaf4f12067cc0b3dd9b1404a9abeef",
+            "path": "config/xaerominimap_entities.json"
+          }
+        },
+        {
+          "id": "xaeropatreon.txt",
+          "name": "xaeropatreon.txt",
+          "type": "File",
+          "artifact": {
+            "size": 0,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/xaeropatreon.txt",
+            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "config/xaeropatreon.txt"
+          }
+        },
+        {
           "id": "ComplementaryReimagined_r5.4.zip",
           "name": "ComplementaryReimagined_r5.4.zip",
           "type": "File",
