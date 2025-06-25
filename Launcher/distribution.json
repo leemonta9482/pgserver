@@ -266,6 +266,16 @@
           }
         },
         {
+          "id": "com.terraformersmc:modmenu:11.0.3@jar",
+          "name": "Mod Menu",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 973066,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/modmenu-11.0.3.jar",
+            "MD5": "d9a3c1f26c571e3eb07ef2ed3e89d1b0"
+          }
+        },
+        {
           "id": "generated.fabricmod:placeholder-api:2.4.2+1.21@jar",
           "name": "Placeholder API",
           "type": "FabricMod",
@@ -589,6 +599,17 @@
             "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/legendarytooltips.toml",
             "MD5": "254816ec6f53088d1020b0dbf59736e6",
             "path": "config/legendarytooltips.toml"
+          }
+        },
+        {
+          "id": "modmenu.json",
+          "name": "modmenu.json",
+          "type": "File",
+          "artifact": {
+            "size": 840,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/modmenu.json",
+            "MD5": "6f801fc101c146e1c993f05544858c34",
+            "path": "config/modmenu.json"
           }
         },
         {
