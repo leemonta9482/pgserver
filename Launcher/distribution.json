@@ -266,16 +266,6 @@
           }
         },
         {
-          "id": "com.terraformersmc:modmenu:11.0.3@jar",
-          "name": "Mod Menu",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 973066,
-            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/modmenu-11.0.3.jar",
-            "MD5": "d9a3c1f26c571e3eb07ef2ed3e89d1b0"
-          }
-        },
-        {
           "id": "generated.fabricmod:placeholder-api:2.4.2+1.21@jar",
           "name": "Placeholder API",
           "type": "FabricMod",
