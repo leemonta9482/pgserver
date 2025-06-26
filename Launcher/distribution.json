@@ -6,6 +6,9 @@
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
+  "java": {
+    "oracle": "https://www.oracle.com/java/technologies/javase-jdk21-doc-downloads.html"
+  },
   "servers": [
     {
       "id": "pgserver-1.21.1",
