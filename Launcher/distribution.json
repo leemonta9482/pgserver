@@ -701,6 +701,17 @@
           }
         },
         {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 5783,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/options.txt",
+            "MD5": "7cdfc94a32fe572bbab7ef9a8f6134ab",
+            "path": "options.txt"
+          }
+        },
+        {
           "id": "ComplementaryReimagined_r5.4.zip",
           "name": "ComplementaryReimagined_r5.4.zip",
           "type": "File",
