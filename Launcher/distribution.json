@@ -116,26 +116,6 @@
           ]
         },
         {
-          "id": "com.afoxxvi:asteorbar:1.5@jar",
-          "name": "AsteorBar",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1115527,
-            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/asteorbar-fabric-1.21.1-1.5.jar",
-            "MD5": "63e9c5d8c66826be0e008dee5b716b7a"
-          }
-        },
-        {
-          "id": "me.shedaniel.autoconfig.example:cloth-config:15.0.140@jar",
-          "name": "Cloth Config v15",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1157166,
-            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/cloth-config-15.0.140-fabric.jar",
-            "MD5": "a2c091b027ad6ba8e54b07020fd45884"
-          }
-        },
-        {
           "id": "me.pepperbell:continuity:3.0.0+1.21@jar",
           "name": "Continuity",
           "type": "FabricMod",
@@ -146,36 +126,6 @@
           }
         },
         {
-          "id": "team.creative:creativecore:2.13.5@jar",
-          "name": "CreativeCore",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1238280,
-            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/CreativeCore_FABRIC_v2.13.5_mc1.21.1.jar",
-            "MD5": "f430dddfef34aadfd92161c22113683c"
-          }
-        },
-        {
-          "id": "traben.entity_model_features:entity_model_features:2.4.1@jar",
-          "name": "Entity Model Features",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 444709,
-            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/entity_model_features_fabric_1.21.1-2.4.1.jar",
-            "MD5": "0dc5775f29f779b17cbf03d42c1a670e"
-          }
-        },
-        {
-          "id": "traben.entity_texture_features:entity_texture_features:6.2.9@jar",
-          "name": "Entity Texture Features",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 649930,
-            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/entity_texture_features_fabric_1.21.1-6.2.9.jar",
-            "MD5": "4baf4440a9210304f2cd133e5673da33"
-          }
-        },
-        {
           "id": "generated.fabricmod:fabric-api:0.116.3+1.21.1@jar",
           "name": "Fabric API",
           "type": "FabricMod",
@@ -183,26 +133,6 @@
             "size": 2417666,
             "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/fabric-api-0.116.3+1.21.1.jar",
             "MD5": "3691ace93a716e3798a2d5c6fb3053f6"
-          }
-        },
-        {
-          "id": "com.holdmyitems:hold-my-items:4.3@jar",
-          "name": "Hold My Items",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 105906,
-            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/HMI%204.3%20-%201.21.(1).jar",
-            "MD5": "e75b24932e2e5022d23a093077249a1a"
-          }
-        },
-        {
-          "id": "com.anthonyhilyard:iceberg:1.3.2@jar",
-          "name": "Iceberg",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 413302,
-            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/Iceberg-1.21.1-fabric-1.3.2.jar",
-            "MD5": "fe26852d922aa24dad9c81270a09f929"
           }
         },
         {
@@ -223,86 +153,6 @@
             "size": 2690177,
             "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/iris-fabric-1.8.8+mc1.21.1.jar",
             "MD5": "1179fe09b9ba970e84ed59259adfe65a"
-          }
-        },
-        {
-          "id": "snownee.jade:jade:15.10.1+fabric@jar",
-          "name": "Jade",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 738992,
-            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/Jade-1.21.1-Fabric-15.10.1.jar",
-            "MD5": "85268da99214188e83260c1356f3131a"
-          }
-        },
-        {
-          "id": "journeymap:journeymap:1.21.1-6.0.0-beta.52@jar",
-          "name": "Journeymap",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 3564300,
-            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/journeymap-fabric-1.21.1-6.0.0-beta.52.jar",
-            "MD5": "30012982dc1580f49e3c1569dc059203"
-          }
-        },
-        {
-          "id": "com.hyfata.najoan:koreanpatch:1.8.3+mc1.21@jar",
-          "name": "Korean Patch",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 528191,
-            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/koreanpatch-fabric-1.8.3+mc1.21.jar",
-            "MD5": "917743b0a5408a31cee5004e61c6b0c2"
-          }
-        },
-        {
-          "id": "com.anthonyhilyard:legendarytooltips:1.5.5@jar",
-          "name": "Legendary Tooltips",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 86697,
-            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/LegendaryTooltips-1.21.1-fabric-1.5.5.jar",
-            "MD5": "565f7b556f0e6569adfb0e60c52c4f29"
-          }
-        },
-        {
-          "id": "com.terraformersmc:modmenu:11.0.3@jar",
-          "name": "Mod Menu",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 973066,
-            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/modmenu-11.0.3.jar",
-            "MD5": "d9a3c1f26c571e3eb07ef2ed3e89d1b0"
-          }
-        },
-        {
-          "id": "generated.fabricmod:placeholder-api:2.4.2+1.21@jar",
-          "name": "Placeholder API",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 232325,
-            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/placeholder-api-2.4.2+1.21.jar",
-            "MD5": "4de8568a088a276c94168514d625413d"
-          }
-        },
-        {
-          "id": "generated.fabricmod:prism:1.0.11@jar",
-          "name": "Root project 'Prism'",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 61661,
-            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/Prism-1.21.1-fabric-1.0.11.jar",
-            "MD5": "0e14c4a4d909505f97085e8c902ee68f"
-          }
-        },
-        {
-          "id": "com.soradgaming:simplehudenhanced:4.7.5@jar",
-          "name": "Simple Hud Enhanced",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1181642,
-            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/simple-hud-enhanced+1.21-1.21.1-4.7.5.jar",
-            "MD5": "3333fceb07695ab9e8d96e951211c3b1"
           }
         },
         {
