@@ -516,9 +516,9 @@
           "name": "iris.properties",
           "type": "File",
           "artifact": {
-            "size": 314,
+            "size": 313,
             "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/config/iris.properties",
-            "MD5": "a6a40358f37609741b374c269369167b",
+            "MD5": "c82977a1256adc808e31bde73ec72e91",
             "path": "config/iris.properties"
           }
         },
