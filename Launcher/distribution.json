@@ -20,11 +20,6 @@
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "javaOptions": {
-        "supported": "21.x.x",
-        "suggestedMajor": 21,
-        "distribution": "TEMURIN"
-      },
       "mainServer": true,
       "autoconnect": true,
       "modules": [
