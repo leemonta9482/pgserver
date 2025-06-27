@@ -116,13 +116,13 @@
           ]
         },
         {
-          "id": "me.pepperbell:continuity:3.0.0+1.21@jar",
+          "id": "me.pepperbell:continuity:3.0.0-beta.5+1.21@jar",
           "name": "Continuity",
           "type": "FabricMod",
           "artifact": {
-            "size": 1014044,
-            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/continuity-3.0.0+1.21.jar",
-            "MD5": "daee3841730e2576a621943f289deadb"
+            "size": 1007136,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/continuity-3.0.0-beta.5+1.21.jar",
+            "MD5": "cd7dbc5efe7f19078ef7609a323e347a"
           }
         },
         {
