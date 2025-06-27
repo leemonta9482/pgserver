@@ -116,23 +116,23 @@
           ]
         },
         {
-          "id": "me.pepperbell:continuity:3.0.0-beta.5+1.21@jar",
+          "id": "me.pepperbell:continuity:3.0.0+1.21@jar",
           "name": "Continuity",
           "type": "FabricMod",
           "artifact": {
-            "size": 1007136,
-            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/continuity-3.0.0-beta.5+1.21.jar",
-            "MD5": "cd7dbc5efe7f19078ef7609a323e347a"
+            "size": 1014044,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/continuity-3.0.0+1.21.jar",
+            "MD5": "daee3841730e2576a621943f289deadb"
           }
         },
         {
-          "id": "generated.fabricmod:fabric-api:0.116.3+1.21.1@jar",
+          "id": "generated.fabricmod:fabric-api:0.116.2+1.21.1@jar",
           "name": "Fabric API",
           "type": "FabricMod",
           "artifact": {
-            "size": 2417666,
-            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/fabric-api-0.116.3+1.21.1.jar",
-            "MD5": "3691ace93a716e3798a2d5c6fb3053f6"
+            "size": 2417627,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/fabric-api-0.116.2+1.21.1.jar",
+            "MD5": "3f66ac788b2ad02bbd1af114092135ce"
           }
         },
         {
