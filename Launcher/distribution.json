@@ -20,6 +20,11 @@
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
+      "javaOptions": {
+        "supported": "21.x.x",
+        "suggestedMajor": 21,
+        "distribution": "TEMURIN"
+      },
       "mainServer": true,
       "autoconnect": true,
       "modules": [
@@ -707,7 +712,7 @@
           "artifact": {
             "size": 5783,
             "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/files/options.txt",
-            "MD5": "7cdfc94a32fe572bbab7ef9a8f6134ab",
+            "MD5": "30d6d09dcdce9df82aac11dbacc8d748",
             "path": "options.txt"
           }
         },
