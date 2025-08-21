@@ -126,13 +126,13 @@
           }
         },
         {
-          "id": "net.blay09.mods:balm:21.0.46@jar",
+          "id": "net.blay09.mods:balm:21.0.49@jar",
           "name": "Balm",
           "type": "FabricMod",
           "artifact": {
-            "size": 619073,
-            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/balm-fabric-1.21.1-21.0.46.jar",
-            "MD5": "a8e6cd21f899bb1fa08bf92e8ab759c6"
+            "size": 622171,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/balm-fabric-1.21.1-21.0.49.jar",
+            "MD5": "048dba217adcabc2f4129c0acbd48a64"
           }
         },
         {
@@ -166,13 +166,13 @@
           }
         },
         {
-          "id": "net.blay09.mods:defaultoptions:21.1.2@jar",
+          "id": "net.blay09.mods:defaultoptions:21.1.4@jar",
           "name": "Default Options",
           "type": "FabricMod",
           "artifact": {
-            "size": 92152,
-            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/defaultoptions-fabric-1.21.1-21.1.2.jar",
-            "MD5": "7e043fa1f4b208bd60986f77b3bc16b7"
+            "size": 98189,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/defaultoptions-fabric-1.21.1-21.1.4.jar",
+            "MD5": "94ce73f417999b8825f0bab7f03a4bfa"
           }
         },
         {
@@ -196,13 +196,13 @@
           }
         },
         {
-          "id": "generated.fabricmod:fabric-api:0.116.3+1.21.1@jar",
+          "id": "generated.fabricmod:fabric-api:0.116.5+1.21.1@jar",
           "name": "Fabric API",
           "type": "FabricMod",
           "artifact": {
-            "size": 2417666,
-            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/fabric-api-0.116.3+1.21.1.jar",
-            "MD5": "3691ace93a716e3798a2d5c6fb3053f6"
+            "size": 2424801,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/fabric-api-0.116.5+1.21.1.jar",
+            "MD5": "9a59b61249144d39c0d93774d195527e"
           }
         },
         {
@@ -256,13 +256,13 @@
           }
         },
         {
-          "id": "snownee.jade:jade:15.10.1+fabric@jar",
+          "id": "snownee.jade:jade:15.10.2+fabric@jar",
           "name": "Jade",
           "type": "FabricMod",
           "artifact": {
-            "size": 738992,
-            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/Jade-1.21.1-Fabric-15.10.1.jar",
-            "MD5": "85268da99214188e83260c1356f3131a"
+            "size": 739001,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/Jade-1.21.1-Fabric-15.10.2.jar",
+            "MD5": "bdf93c186ea0916547520c4f6e65a233"
           }
         },
         {
@@ -276,13 +276,13 @@
           }
         },
         {
-          "id": "com.hyfata.najoan:koreanpatch:1.8.3+mc1.21@jar",
+          "id": "com.hyfata.najoan:koreanpatch:1.9.0+mc1.21@jar",
           "name": "Korean Patch",
           "type": "FabricMod",
           "artifact": {
-            "size": 528191,
-            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/koreanpatch-fabric-1.8.3+mc1.21.jar",
-            "MD5": "917743b0a5408a31cee5004e61c6b0c2"
+            "size": 584189,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/koreanpatch-fabric-1.9.0+mc1.21.jar",
+            "MD5": "2f66ed07e1e86dd0c835b61de9b58d8f"
           }
         },
         {
@@ -303,6 +303,16 @@
             "size": 973066,
             "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/modmenu-11.0.3.jar",
             "MD5": "d9a3c1f26c571e3eb07ef2ed3e89d1b0"
+          }
+        },
+        {
+          "id": "io.wispforest:owo:0.12.15.4+1.21@jar",
+          "name": "Oωo",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1183559,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/owo-lib-0.12.15.4+1.21.jar",
+            "MD5": "3627aee17111e12a8c66928f5d7a3fba"
           }
         },
         {
