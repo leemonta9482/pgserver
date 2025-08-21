@@ -226,6 +226,16 @@
           }
         },
         {
+          "id": "generated.fabricmod:immediatelyfast:1.6.6+1.21.1@jar",
+          "name": "ImmediatelyFast",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 228315,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/ImmediatelyFast-Fabric-1.6.6+1.21.1.jar",
+            "MD5": "23f513c38ec1b93debbe808090e6a039"
+          }
+        },
+        {
           "id": "link.infra:indium:1.0.35+mc1.21@jar",
           "name": "Indium",
           "type": "FabricMod",
@@ -296,6 +306,16 @@
           }
         },
         {
+          "id": "com.chailotl:particular:1.1.2+1.21@jar",
+          "name": "Particular",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 240317,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/particular-1.1.2+1.21.jar",
+            "MD5": "98825e96e05e8c4a55a582278d9aca01"
+          }
+        },
+        {
           "id": "generated.fabricmod:placeholder-api:2.4.2+1.21@jar",
           "name": "Placeholder API",
           "type": "FabricMod",
@@ -333,6 +353,26 @@
             "size": 1297761,
             "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/sodium-fabric-0.6.13+mc1.21.1.jar",
             "MD5": "aa37ba0048a1af6b554b137088cad484"
+          }
+        },
+        {
+          "id": "xyz.trivaxy:tia:1.2.1@jar",
+          "name": "Tiny Item Animations",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 20445,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/tia-fabric-1.21-1.2.1.jar",
+            "MD5": "6ba46e4793bc021d989ad016103e5f39"
+          }
+        },
+        {
+          "id": "com.goby56:wakes:0.4.1+1.21.1@jar",
+          "name": "Wakes",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 268435,
+            "url": "https://raw.githubusercontent.com/leemonta9482/pgserver/main/Launcher/servers/pgserver-1.21.1/fabricmods/required/wakes-0.4.1+1.21.1.jar",
+            "MD5": "bcd57a7d1ae87ea231501ff9f2c59eba"
           }
         },
         {
